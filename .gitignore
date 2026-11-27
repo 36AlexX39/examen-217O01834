@@ -1,0 +1,11 @@
+
+# Evidencias del examen
+evidencias/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
