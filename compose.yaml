@@ -1,0 +1,19 @@
+
+services:
+  servicio1:
+    image: examen:217O01834
+    container_name: examen_servicio1
+    ports:
+      - "8081:80"
+
+  servicio2:
+    image: examen:217O01834
+    container_name: examen_servicio2
+    ports:
+      - "8082:80"
+
+  servicio3:
+    image: examen:217O01834
+    container_name: examen_servicio3
+    ports:
+      - "8083:80"
