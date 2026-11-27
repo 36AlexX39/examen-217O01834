@@ -79,3 +79,12 @@ docker compose up -d servicio2
 
 El dashboard de datos se integrará posteriormente utilizando Excel, como herramienta de visualización perteneciente al ecosistema Microsoft.
 
+## Visualización
+
+Para la visualización de los datos se utilizó **Microsoft Excel**, como herramienta del ecosistema Microsoft.
+
+Se creó un dashboard con información de ventas, clientes y pedidos correspondiente a los meses de enero a junio. Incluye una gráfica de líneas para mostrar las ventas por mes, una gráfica de barras para comparar los clientes y tres indicadores: ventas totales, promedio de pedidos y mes con mayores ventas.
+
+El archivo del dashboard se encuentra en la carpeta `visualizacion/`.
+
+Para consultarlo, abre el archivo `dashboard_visualizacion_217O01834.xlsx` con Microsoft Excel o una aplicación compatible.
